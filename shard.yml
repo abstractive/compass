@@ -1,0 +1,17 @@
+name: compass
+version: 0.0.0.1
+
+description: ^Compass
+
+authors:
+  - digitalextremist <code@extremist.digital>
+
+crystal: 0.28.0
+
+license: MIT
+
+github: abstractive/compass
+
+dependencies:
+  artillery:
+    github: abstractive/artillery.cr

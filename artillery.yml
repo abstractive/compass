@@ -1,0 +1,6 @@
+projectile:
+  environments:
+    launchers: 3
+  production:
+    domains:
+      - compass.abstractive.org
