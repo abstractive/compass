@@ -1,6 +1,6 @@
 module Compass
   module Participant
-    class Authenticate
+    class Authenticate < Artillery::Shot
 
       vector :post, "/participant/authenticate"
 
